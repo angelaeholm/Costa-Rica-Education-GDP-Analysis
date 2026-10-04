@@ -1,0 +1,14 @@
+{
+  "Year": {
+    "description": "Calendar year for the Costa Rica data, covering 2001 through 2020.",
+    "data_type": "Integer"
+  },
+  "Primary Enrollment": {
+    "description": "Number of pupils enrolled in primary education in Costa Rica for each year.",
+    "data_type": "Integer"
+  },
+  "GDP": {
+    "description": "Costa Rica GDP per capita in current U.S. dollars for each year.",
+    "data_type": "Numeric"
+  }
+}
